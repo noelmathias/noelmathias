@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=800&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Agentic+AI+Systems;Open+to+Internships)](https://git.io/typing-svg)
+
 # Hi, I'm Noel Mathias
 
 🎓 BE Computer Science (AIML)
