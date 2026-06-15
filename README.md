@@ -26,6 +26,13 @@
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B)
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noelmathias&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmathias&layout=compact)
+
 ## Featured Projects
 
 ### LexiGuard AI
