@@ -40,4 +40,4 @@ QLoRA Fine-Tuning & Deployment
 ## Connect With Me
 
 - LinkedIn: [Your LinkedIn URL]
-- Email: your_email@example.com
+- Email: noelmathias10@gmail.com
