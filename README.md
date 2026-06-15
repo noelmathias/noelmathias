@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**noelmathias/noelmathias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science (AIML)
 
-Here are some ideas to get you started:
+🤖 Interested in AI/ML, Generative AI, Agentic AI & RAG Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Python
+- Machine Learning
+- Deep Learning
+- LangChain
+- LangGraph
+- FastAPI
+- Docker
+- AWS
+- SQL
+
+## Featured Projects
+
+### LexiGuard AI
+Multi-Agent Contract Intelligence System
+
+### Agentic RAG System
+Hybrid Retrieval + Reranking + Hallucination Detection
+
+### Financial LLM Assistant
+QLoRA Fine-Tuning & Deployment
+
+## Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: your_email@example.com
