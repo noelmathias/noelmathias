@@ -39,5 +39,5 @@ QLoRA Fine-Tuning & Deployment
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/noel-mathias-4b7515285
 - Email: noelmathias10@gmail.com
