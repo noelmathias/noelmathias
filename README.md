@@ -1,23 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=800&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Agentic+AI+Systems;Open+to+Internships)](https://git.io/typing-svg)
 
-# Hi, I'm Noel Mathias
+<h1 align="center">Hi 👋, I'm Noel Mathias</h1>
 
-🎓 BE Computer Science (AIML)
+<h3 align="center">
+AI/ML Undergraduate • Machine Learning • Data Science • Generative AI
+</h3>
 
-🤖 Interested in AI/ML, Generative AI, Agentic AI & RAG Systems
+<p align="center">
+Python • SQL • TensorFlow • Scikit-Learn • Pandas • NumPy
+<br>
+LangChain • LangGraph • RAG • FAISS • Hugging Face
+<br>
+FastAPI • Docker • PostgreSQL • MongoDB • Git • Linux
+</p>
 
-## Tech Stack
+<p align="center">
+Building Intelligent AI Systems & Data-Driven Solutions
+</p>
 
-- Python
-- Machine Learning
-- Deep Learning
-- LangChain
-- LangGraph
-- FastAPI
-- Docker
-- AWS
-- SQL
-
+<p align="center">
+Open to AI/ML, Machine Learning & Data Science Internships
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?logo=tensorflow&logoColor=white)
