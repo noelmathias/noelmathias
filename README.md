@@ -49,12 +49,16 @@ Hybrid Retrieval + Reranking + Hallucination Detection
 ### Financial LLM Assistant
 QLoRA Fine-Tuning & Deployment
 
-## Connect With Me
+
+## 📜 Certifications
+
+- Agentic AI Bootcamp with LangGraph & LangChain
+- Python for Data Science and Machine Learning
+- The Ultimate Job Ready Data Science Course
+
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/noel-mathias-4b7515285)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noelmathias10@gmail.com)
 
-- LinkedIn: www.linkedin.com/in/noel-mathias-4b7515285
-- Email: noelmathias10@gmail.com
