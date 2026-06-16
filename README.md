@@ -51,5 +51,10 @@ QLoRA Fine-Tuning & Deployment
 
 ## Connect With Me
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/noel-mathias-4b7515285)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noelmathias10@gmail.com)
+
 - LinkedIn: www.linkedin.com/in/noel-mathias-4b7515285
 - Email: noelmathias10@gmail.com
