@@ -44,8 +44,9 @@ Open to AI/ML, Machine Learning & Data Science Internships
 
 LexAI is a production-style AI legal intelligence platform that combines Multi-Agent AI, Hybrid RAG, and Local LLM Inference to provide legal guidance, contract analysis, document generation, and risk assessment.
 
-🚀 Key Features
-Multi-agent legal reasoning pipeline for intent classification, entity extraction, and legal guidance
+**Key Features**
+
+* Multi-agent legal reasoning pipeline for intent classification, entity extraction, and legal guidance
 Hybrid Retrieval-Augmented Generation (FAISS + BM25 + Reciprocal Rank Fusion)
 Contract analysis with semantic risk scoring and clause evaluation
 AI-powered legal document generation and comparative contract analysis
