@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=800&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Agentic+AI+Systems;Open+to+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=800&lines=AI%2FML+Engineer;Generative+AI;Building+Agentic+AI+Systems;Open+to+Internships)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Noel Mathias</h1>
 
@@ -62,14 +62,15 @@ LexAI is a production-style AI legal intelligence platform that combines Multi-A
 * Deployment: Vercel, ngrok, GitHub
 
 **🎯 Highlights** 
-Designed a 2-stage agent orchestration pipeline for legal reasoning workflows
-Implemented Hybrid RAG retrieval combining semantic and keyword search
-Built rule-based risk and confidence scoring pipelines
-Integrated guardrails and response validation to improve reliability
-Developed an end-to-end AI system from data ingestion to deployment
+
+* Designed a 2-stage agent orchestration pipeline for legal reasoning workflows
+* Implemented Hybrid RAG retrieval combining semantic and keyword search
+* Built rule-based risk and confidence scoring pipelines
+* Integrated guardrails and response validation to improve reliability
+* Developed an end-to-end AI system from data ingestion to deployment
 
 GitHub Repo: lexiguard_ai
-Status: Actively improving toward AWS EC2 production deployment
+Status: Actively improving towards AWS EC2 production deployment
 
 ### 🤖 Autonomous Multi-Agent Research Assistant
 
@@ -103,13 +104,14 @@ Built an end-to-end AI research system that autonomously plans, retrieves, analy
 * Designed a modular agent-based architecture for extensibility and scalability
 * Supports PDF ingestion, semantic search, research planning, and report generation
 
+Status : Actively improving towards AWS EC2 production deployment
 
 
 ## 📜 Certifications
 
-- Agentic AI Bootcamp with LangGraph & LangChain
-- Python for Data Science and Machine Learning
-- The Ultimate Job Ready Data Science Course
+*  Agentic AI Bootcamp with LangGraph & LangChain
+* Python for Data Science and Machine Learning
+* The Ultimate Job Ready Data Science Course
 
 
 ## 🌐 Connect With Me
