@@ -69,8 +69,8 @@ LexAI is a production-style AI legal intelligence platform that combines Multi-A
 * Integrated guardrails and response validation to improve reliability
 * Developed an end-to-end AI system from data ingestion to deployment
 
-GitHub Repo: lexiguard_ai
-Status: Actively improving towards AWS EC2 production deployment
+* GitHub Repo: lexiguard_ai
+* Status: Actively improving towards AWS EC2 production deployment
 
 ### 🤖 Autonomous Multi-Agent Research Assistant
 
