@@ -43,8 +43,38 @@ Open to AI/ML, Machine Learning & Data Science Internships
 ### LexiGuard AI
 Multi-Agent Contract Intelligence System
 
-### Agentic RAG System
-Hybrid Retrieval + Reranking + Hallucination Detection
+### 🤖 Autonomous Multi-Agent Research Assistant
+
+Built an end-to-end AI research system that autonomously plans, retrieves, analyzes, evaluates, and generates research reports using a multi-agent architecture.
+
+**Key Features**
+
+* Multi-agent workflow using Planner, Retriever, Summarizer, Evaluator, Reflection, and Report agents
+* Semantic document retrieval with ChromaDB vector search
+* PDF ingestion and automated knowledge extraction
+* Reflection loops for improved answer quality and hallucination reduction
+* Automated report generation with citations and confidence scoring
+* Real-time execution monitoring through an interactive Streamlit dashboard
+* Async orchestration with FastAPI and LangGraph
+
+**Tech Stack**
+
+* FastAPI
+* Streamlit
+* LangGraph
+* Ollama
+* ChromaDB
+* Sentence Transformers
+* PyTorch
+* Docker
+
+**Highlights**
+
+* Built a complete Retrieval-Augmented Generation (RAG) pipeline
+* Implemented evaluator-guided reasoning and self-reflection workflows
+* Designed a modular agent-based architecture for extensibility and scalability
+* Supports PDF ingestion, semantic search, research planning, and report generation
+
 
 ### Financial LLM Assistant
 QLoRA Fine-Tuning & Deployment
