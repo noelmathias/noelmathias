@@ -47,20 +47,21 @@ LexAI is a production-style AI legal intelligence platform that combines Multi-A
 **Key Features**
 
 * Multi-agent legal reasoning pipeline for intent classification, entity extraction, and legal guidance
-Hybrid Retrieval-Augmented Generation (FAISS + BM25 + Reciprocal Rank Fusion)
-Contract analysis with semantic risk scoring and clause evaluation
-AI-powered legal document generation and comparative contract analysis
-Local LLM inference using Ollama + Qwen2.5, eliminating dependency on paid AI APIs
-Full-stack architecture with React frontend and FastAPI backend
-Deployed using Vercel, with backend exposed securely for live demonstrations
-🛠️ Tech Stack
+* Hybrid Retrieval-Augmented Generation (FAISS + BM25 + Reciprocal Rank Fusion)
+* Contract analysis with semantic risk scoring and clause evaluation
+* AI-powered legal document generation and comparative contract analysis
+* Local LLM inference using Ollama + Qwen2.5, eliminating dependency on paid AI APIs
+* Full-stack architecture with React frontend and FastAPI backend
+* Deployed using Vercel, with backend exposed securely for live demonstrations
+* 
+**🛠️ Tech Stack**
 
-Frontend: React, Vite, JavaScript
-Backend: FastAPI, Python
-AI/ML: Ollama, Qwen2.5, FAISS, BM25, Sentence-Transformers, RAG
-Deployment: Vercel, ngrok, GitHub
+* Frontend: React, Vite, JavaScript
+* Backend: FastAPI, Python
+* AI/ML: Ollama, Qwen2.5, FAISS, BM25, Sentence-Transformers, RAG
+* Deployment: Vercel, ngrok, GitHub
 
-🎯 Highlights
+**🎯 Highlights** 
 Designed a 2-stage agent orchestration pipeline for legal reasoning workflows
 Implemented Hybrid RAG retrieval combining semantic and keyword search
 Built rule-based risk and confidence scoring pipelines
@@ -102,9 +103,6 @@ Built an end-to-end AI research system that autonomously plans, retrieves, analy
 * Designed a modular agent-based architecture for extensibility and scalability
 * Supports PDF ingestion, semantic search, research planning, and report generation
 
-
-### Financial LLM Assistant
-QLoRA Fine-Tuning & Deployment
 
 
 ## 📜 Certifications
