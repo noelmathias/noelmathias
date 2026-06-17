@@ -40,8 +40,34 @@ Open to AI/ML, Machine Learning & Data Science Internships
 
 ## Featured Projects
 
-### LexiGuard AI
-Multi-Agent Contract Intelligence System
+### ⚖️ LexAI — Agentic Legal Intelligence System
+
+LexAI is a production-style AI legal intelligence platform that combines Multi-Agent AI, Hybrid RAG, and Local LLM Inference to provide legal guidance, contract analysis, document generation, and risk assessment.
+
+🚀 Key Features
+Multi-agent legal reasoning pipeline for intent classification, entity extraction, and legal guidance
+Hybrid Retrieval-Augmented Generation (FAISS + BM25 + Reciprocal Rank Fusion)
+Contract analysis with semantic risk scoring and clause evaluation
+AI-powered legal document generation and comparative contract analysis
+Local LLM inference using Ollama + Qwen2.5, eliminating dependency on paid AI APIs
+Full-stack architecture with React frontend and FastAPI backend
+Deployed using Vercel, with backend exposed securely for live demonstrations
+🛠️ Tech Stack
+
+Frontend: React, Vite, JavaScript
+Backend: FastAPI, Python
+AI/ML: Ollama, Qwen2.5, FAISS, BM25, Sentence-Transformers, RAG
+Deployment: Vercel, ngrok, GitHub
+
+🎯 Highlights
+Designed a 2-stage agent orchestration pipeline for legal reasoning workflows
+Implemented Hybrid RAG retrieval combining semantic and keyword search
+Built rule-based risk and confidence scoring pipelines
+Integrated guardrails and response validation to improve reliability
+Developed an end-to-end AI system from data ingestion to deployment
+
+GitHub Repo: lexiguard_ai
+Status: Actively improving toward AWS EC2 production deployment
 
 ### 🤖 Autonomous Multi-Agent Research Assistant
 
